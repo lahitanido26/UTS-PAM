@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dropdown_items">
+        <item>Cihampelas</item>
+        <item>Asia Afrika</item>
+        <item>Lengkong</item>
+        <item>Gatot Subroto</item>
+        <item>Cilenyi</item>
+        <item>Ujung Berung</item>
+    </string-array>
+</resources>
