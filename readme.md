@@ -6,4 +6,4 @@
 <img src="ss/Screenshot_20231031_193503.png" width="200">
 <img src="ss/Screenshot_20231031_193511.png" width="200">
 <img src="ss/Screenshot_20231031_193521.png" width="200">
-<img src="ss/Screenshot_20231031_193529.png" widtg="200">
+<img src="ss/Screenshot_20231031_193529.png" width="200">
